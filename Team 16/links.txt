@@ -1,0 +1,3 @@
+backend: group16-hats-and-glasses-backend-development.us-east-1.np.paas.lmig.com
+
+frontend: group16-hats-and-glasses-development.us-east-1.np.paas.lmig.com
